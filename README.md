@@ -1,5 +1,6 @@
 # Modified-pySIDES-of-Bethermin-et-al-2022
-https://gitlab.lam.fr/mbethermin/sides-public-releaseにあるコードが現環境で動くように修正しました。
+https://gitlab.lam.fr/mbethermin/sides-public-release
+にあるコードが現環境で動くように修正しました。
 Bethermin et al. (2017)、Bethermin et al. (2022)が原論文です。
 
 ALMA ACAを用いたショットノイズ観測で使おうとしていたので、今回はショットノイズcube（without clustering）を作るコードのみ修正しています。
